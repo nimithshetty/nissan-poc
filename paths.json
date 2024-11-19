@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/eds-boilerplate/:/",
-    "/content/eds-boilerplate/configuration:/.helix/config.json",
-    "/content/eds-boilerplate/metadata:/metadata.json"
+    "/content/eds-test/:/",
+    "/content/eds-test/configuration:/.helix/config.json",
+    "/content/eds-test/metadata:/metadata.json"
   ],
   "includes": [
     "/content/eds-boilerplate/"
